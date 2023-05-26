@@ -1,3 +1,5 @@
+<div style="background: #202020">
+
 <h1 align="center">Hi 👋, I'm Marcio Oliveira</h1>
 <h3 align="center">A passionate fullstack developer from Brazil</h3>
 
@@ -152,4 +154,7 @@
 &nbsp;
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marcioa&theme=synthwave" alt="marcioa" />
 </div>
+</div>
+
+
 </div>
