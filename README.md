@@ -5,7 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcioa&label=Profile%20views&color=0e75b6&style=flat" alt="marcioa" /> </p>
 
-- 🔭 I’m currently working on [Evepay](http://evepay.com.br/) a personal project
+- 🔭 I’m looking for a job or investidor, what came first;
+
+- 🔭 I’m currently working on [Evepay](http://evepay.com.br/), a personal project
 
 - 🌱 I’m currently learning **about ruby on rails and Flutter**
 
